@@ -94,7 +94,7 @@ service-worker: true
 
 
 # JiJing Links
-friends: [
+JiJing Links: [
     {
         title: "极境网络旗下网站导航站",
         href: "https://jijingnetwork.wordpress.com/"

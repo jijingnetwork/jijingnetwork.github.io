@@ -107,5 +107,17 @@ friends: [
     },{
         title: "奇分享抖音",
         href: "https://www.douyin.com/user/MS4wLjABAAAARvM56wt_3sBEt0OCLEcBGvsGBxpvegEHq63yJwUF5CY"
-    }
+    },{
+        title: "奇分享今日头条",
+        href: "https://www.toutiao.com/c/user/token/MS4wLjABAAAALxyuiacDhNAIqc1YO1sVkWoOk-dlb_N2xG4o0ii39pQ/?"
+    },{
+        title: "奇分享快手",
+        href: "https://www.kuaishou.com/profile/3xn746c5hxsns5w"
+    },{
+        title: "奇分享 TikTok",
+        href: "https://www.tiktok.com/@QFXHW"
+    },{
+        title: "JiJingNetwork Twitter",
+        href: "https://twitter.com/jijingnetwork"
 ]
+       
